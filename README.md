@@ -36,7 +36,7 @@ The overarching goal is to create a robust, versatile Mars Rover capable of comp
 ---
 
 ## Team Structure
-Based on the Preliminary Design Report (PDR), our team’s leadership is organized as follows:
+Our team’s leadership is organized as follows:
 
 - **Project Manager (PM)**: Oversees administrative management and coordinates multiple divisions.
 - **Project Lead (PL)**: Oversees technical aspects of the project and coordinates the remaining divisions.
