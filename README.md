@@ -116,10 +116,11 @@ As the **Remote Division**, our responsibilities include designing and implement
   - 900 MHz Radio Modules  
   - Battery Management System  
 - **Software & Frameworks**: 
-  - ROS (optional for advanced robotics integration)  
+  - ROS2 Humble  
   - I2C drivers and libraries  
   - Microcontroller SDKs  
-  - Embedded Linux environment on the Jetson  
+  - Embedded Linux environment on the Jetson
+  - U-center (U-blox) from GNSS 
 - **CAD & Simulation**:  
   - SolidWorks for mechanical assemblies  
   - FEA tools for structural validation  
